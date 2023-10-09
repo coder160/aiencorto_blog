@@ -9,7 +9,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/aiencorto_blog/',
+  base: '/',
   plugins: [
     vue({
       template: { transformAssetUrls }
