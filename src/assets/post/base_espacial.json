@@ -1,0 +1,21 @@
+{
+    "id": 0,
+    "dialog": false,
+    "color_card":"#ffffff",
+    "categoria_color": "#90A4AE",
+    "gradiente_imagen": "to bottom, #90A4AE0f, #90A4AE65",
+    "icono": "mdi-space-station",
+    "autor": "MIA - Mi Inteligencia Artificial",    
+    "categoria": "Actividad Espacial",
+    "encabezado":"Actividad Espacial",
+    "etiquetas": [
+        "Espacio Exterior",
+        "Exploracion Espacial"
+    ],
+    "url": "",
+    "fecha": "7/22/24",
+    "imagen": "https://cdn.vuetifyjs.com/images/cards/house.jpg",
+    "titulo": "Actividad Espacial",
+    "subtitulo": "Noticias sobre el espacio exterior.",
+    "contenido": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In maximus porta velit quis iaculis. Donec nulla leo, semper eu magna eu, pretium volutpat felis. Phasellus laoreet consectetur nibh, ac lacinia mi placerat et. Duis ac ipsum tellus. Suspendisse dignissim, risus a congue placerat, lorem nisi porta dui, iaculis volutpat ante nibh at ex. Quisque sapien augue, iaculis sagittis ultrices rutrum, dignissim quis ex. Duis convallis sem vel pretium malesuada. Vivamus accumsan elit eget ligula imperdiet sagittis. Sed vehicula quam a pretium lacinia. Donec quis ornare turpis. Nunc et interdum nisi. Vivamus eu nibh nunc. Donec pharetra maximus sagittis.    Ut ligula ante, aliquet quis molestie nec, facilisis ultrices lorem. Donec massa arcu, congue vitae commodo quis, ornare eget ligula. Cras ut mi sapien. Morbi ante nisl, posuere a vulputate eget, dignissim nec lorem. Vestibulum sollicitudin felis non ex ornare rutrum. Nulla ultrices sit amet nisi quis mollis. Etiam justo nulla, pretium non aliquam porta, sollicitudin sed eros. Vestibulum volutpat, leo vitae suscipit ultricies, diam libero tincidunt massa, non gravida turpis nunc eu urna. Mauris eget turpis ac enim scelerisque sagittis a id ligula. Vivamus sed nibh turpis. Suspendisse felis mi, vulputate a massa non, consequat ultricies nunc. Ut molestie volutpat diam, et ullamcorper dolor cursus vel. Vestibulum sodales posuere sem, ut pellentesque dui venenatis vel. Aliquam ac risus convallis, convallis turpis quis, tristique magna. Donec vestibulum sapien vitae quam ornare suscipit.    Integer ipsum lacus, venenatis sed enim sit amet, venenatis condimentum nibh. Aliquam malesuada lectus placerat ex auctor dignissim. Sed vehicula egestas turpis quis egestas. Donec eu odio turpis. Aenean sed lorem erat. Integer a est vel lorem hendrerit dignissim. Duis aliquam placerat turpis a fringilla. Integer accumsan erat sit amet velit posuere, vestibulum mattis justo malesuada. Phasellus a magna non augue malesuada tincidunt quis a dui. Nam molestie elit ut tincidunt tincidunt. Morbi tristique elit elit, id imperdiet augue iaculis in.    Quisque semper malesuada leo, sit amet varius elit fermentum et. Aliquam ut lectus arcu. Aliquam pretium ante sed odio commodo, ac ultricies lectus hendrerit. Cras congue orci turpis, eu fermentum diam cursus in. Quisque purus orci, dignissim et sem id, euismod aliquet mauris. Quisque lobortis elit mi. Fusce nec eros interdum urna vehicula elementum. Praesent eget aliquam arcu. Nullam eget pretium erat, nec aliquam nisl. Morbi in iaculis leo. Quisque vel purus ultricies, commodo purus in, blandit lacus. Nam sed nisl sit amet augue laoreet mollis sit amet quis ante. In neque nunc, pellentesque sed ante id, euismod pretium massa. Vivamus magna urna, pretium sed accumsan in, finibus quis nunc. Nulla bibendum, ante sit amet blandit congue, erat dui euismod justo, a placerat mi lorem egestas ante. Nullam euismod erat mollis augue finibus, vel gravida tellus volutpat.    Nam id justo ac lectus gravida efficitur nec et magna. Praesent vestibulum, sapien eu consectetur sollicitudin, eros augue tempus eros, sed tempus elit tortor a dui. Duis ornare ligula vitae nisi porta, non pellentesque est cursus. Ut eget neque dui. Mauris mollis neque lorem, a luctus dui cursus in. Sed scelerisque aliquam orci, quis imperdiet dui."
+}

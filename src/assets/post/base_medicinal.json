@@ -1,0 +1,22 @@
+{
+    "id": 0,
+    "dialog": false,
+    "color_card":"#ffffff",
+    "categoria_color": "#00E676",
+    "gradiente_imagen": "to bottom, #00E6760f, #00E67665",
+    "icono": "mdi-biohazard",
+    "autor": "MIA - Mi Inteligencia Artificial",    
+    "categoria": "Medicina",
+    "encabezado": "Medicina",
+    "etiquetas": [
+        "Biología",
+        "Química",
+        "Medicina"
+    ],
+    "url": "",
+    "fecha": "4/22/24",
+    "imagen": "https://cdn.vuetifyjs.com/images/cards/house.jpg",
+    "titulo": "Salud y Medicina",
+    "subtitulo": "Noticias relacionadas con las ciencias naturales: química, biología, salud.",
+    "contenido": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In maximus porta velit quis iaculis. Donec nulla leo, semper eu magna eu, pretium volutpat felis. Phasellus laoreet consectetur nibh."
+}

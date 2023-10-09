@@ -1,0 +1,21 @@
+{
+    "id": 0,
+    "dialog": false,
+    "color_card":"#ffffff",
+    "categoria_color": "#E53935",
+    "gradiente_imagen": "to bottom, #E539350f, #E5393565",
+    "icono": "mdi-school-outline",
+    "autor": "MIA - Mi Inteligencia Artificial",
+    "categoria": "Investigaciones",
+    "encabezado": "Investigaciones",
+    "etiquetas": [
+        "Documentos",
+        "Investigación"
+    ],
+    "url": "https://aiencorto.blogspot.com/2023/10/tensorflow-transformando-el-aprendizaje.html",
+    "fecha": "08/10/2023",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBaeMaySDUudVVsCZzEQanLjbjsJWnGMpOYq_YINqw3Lpci7_kdWVC1h5-t7uo2mDHlvjqiqJAwzFO9ndvuOeWonIeFlTANWFw23JNXq6c8iEYFlmmGU_SAddX-ZU0AHjYyv-o-3pH6IPlDU2n_34NOUTJkVR6bvClrkF-U7vcjWK1bca65oYE1YY9VmU/w640-h320/diffusers(1).png",
+    "titulo": "TensorFlow",
+    "subtitulo": " TensorFlow: Transformando el Aprendizaje Automático.",
+    "contenido": "TensorFlow, desarrollado por Google, es una destacada biblioteca de código abierto en el ámbito del aprendizaje automático e inteligencia artificial. Ofrece flexibilidad para crear y entrenar modelos eficientemente, es compatible con diversas plataformas y cuenta con herramientas como TensorBoard para la visualización. Además, aprovecha el poder de las GPU y las TPU para acelerar el entrenamiento de modelos y ofrece bibliotecas de alto nivel como Keras. Su comunidad activa y su versatilidad lo hacen esencial en aplicaciones de visión por computadora, procesamiento de lenguaje natural, aprendizaje profundo, aprendizaje por refuerzo y más. TensorFlow ha transformado el desarrollo de aplicaciones de IA y seguirá siendo fundamental en el futuro de esta tecnología."
+}
