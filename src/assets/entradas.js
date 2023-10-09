@@ -9,11 +9,17 @@ import inteligencia_artificial from './post/1_inteligencia_artificial.json'
 import python from './post/4_python_lenguaje.json'
 import tensorflow from './post/5_tensorflow.json'
 import pytorch from './post/6_pytorch.json'
+import pipeline from './post/7_pipeline.json'
+import transformers from './post/8_transformers.json'
+import diffusers from './post/9_diffusers.json'
 
 
 export var Entradas = [    
     inteligencia_artificial,
     python,
     tensorflow,
-    pytorch
+    pytorch,
+    pipeline,
+    transformers,
+    diffusers
 ]
