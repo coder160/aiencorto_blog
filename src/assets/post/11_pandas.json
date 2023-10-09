@@ -1,0 +1,22 @@
+{
+    "id": 11,
+    "dialog": false,
+    "color_card":"#ffffff",
+    "categoria_color": "#FDD835",
+    "gradiente_imagen": "to bottom, #FDD8350f, #FDD83565",
+    "icono": "mdi-school-outline",
+    "autor": "MIA - Mi Inteligencia Artificial",
+    "categoria": "Investigaciones",
+    "encabezado": "Investigaciones",
+    "etiquetas": [
+        "Documentos",
+        "Investigación",
+        "Pandas"
+    ],
+    "url": "https://aiencorto.blogspot.com/2023/10/guia-del-usuario-de-pandas-tu-companero.html",
+    "fecha": "09/10/2023",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjygbJQgmWI0VLWLVJ-iXLDpAHlFIrTyajk0I92ruq4P4uqqga8-A1h4PhMLlilY7eDCg5wX8cJHViCq7mk4z5T5QOlXIx6AxQwui-KjzY0TcQIHlVlCIM0hAFkgWIGAtW4QSiNtytBSQy3POh7nvLyMLel9bgeOtk10fNXv7pWK6ySZXbIaaF_kUqSf5o/w640-h320/pandas.png",
+    "titulo": "Pandas",
+    "subtitulo": " Guía del Usuario de Pandas: Tu Compañero Confiable para Manipular Datos",
+    "contenido": "La Guía del Usuario de Pandas es una herramienta esencial para aquellos que trabajan con manipulación y análisis de datos en Python. Esta guía cubre una variedad de áreas temáticas, desde una introducción rápida hasta los fundamentos esenciales de Pandas, y ofrece una referencia detallada de la API. Proporciona ejemplos de código para ilustrar los conceptos. Pandas es una poderosa biblioteca que facilita el trabajo con datos, desde limpiarlos hasta realizar análisis y visualizaciones. Esta guía es una aliada indispensable para el análisis de datos efectivo y eficiente."
+}

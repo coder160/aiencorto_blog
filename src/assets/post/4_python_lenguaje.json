@@ -1,5 +1,5 @@
 {
-    "id": 0,
+    "id": 4,
     "dialog": false,
     "color_card":"#ffffff",
     "categoria_color": "#FDD835",
@@ -10,7 +10,8 @@
     "encabezado": "Investigaciones",
     "etiquetas": [
         "Documentos",
-        "Investigación"
+        "Investigación",
+        "Python"
     ],
     "url": "https://aiencorto.blogspot.com/2023/10/python-tu-puerta-de-entrada-al-mundo-de.html",
     "fecha": "08/10/2023",

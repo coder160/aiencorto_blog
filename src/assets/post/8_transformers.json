@@ -1,5 +1,5 @@
 {
-    "id": 0,
+    "id": 8,
     "dialog": false,
     "color_card":"#ffffff",
     "categoria_color": "#FDD835",
@@ -10,7 +10,8 @@
     "encabezado": "Investigaciones",
     "etiquetas": [
         "Documentos",
-        "Investigación"
+        "Investigación",
+        "Transformers"
     ],
     "url": "https://aiencorto.blogspot.com/2023/10/transformers-mas-que-una-pelicula-la.html",
     "fecha": "08/10/2023",

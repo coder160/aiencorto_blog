@@ -1,5 +1,5 @@
 {
-    "id": 0,
+    "id": 5,
     "dialog": false,
     "color_card":"#ffffff",
     "categoria_color": "#FDD835",
@@ -10,7 +10,8 @@
     "encabezado": "Investigaciones",
     "etiquetas": [
         "Documentos",
-        "Investigación"
+        "Investigación",
+        "TensorFlow"
     ],
     "url": "https://aiencorto.blogspot.com/2023/10/tensorflow-transformando-el-aprendizaje.html",
     "fecha": "08/10/2023",
