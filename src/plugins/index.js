@@ -1,4 +1,4 @@
-import vuetify from './vuetify'
+import vuetify from './vuetify.js'
 import router from '../router'
 
 export function registerPlugins (app) {
