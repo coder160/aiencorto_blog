@@ -6,9 +6,14 @@ import ejemplo_AMBIENTE from './post/base_ambiental.json'
 import ejemplo_NEWS from './post/base_actualidad.json'
 import ejemplo_INVESTIGACION from './post/base_investigacion.json'
 import inteligencia_artificial from './post/1_inteligencia_artificial.json'
+import python from './post/4_python_lenguaje.json'
+import tensorflow from './post/5_tensorflow.json'
+import pytorch from './post/6_pytorch.json'
 
 
-export var Entradas = [
-    ejemplo_ESPACIAL,
-    inteligencia_artificial
+export var Entradas = [    
+    inteligencia_artificial,
+    python,
+    tensorflow,
+    pytorch
 ]
