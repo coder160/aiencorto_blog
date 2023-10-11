@@ -19,11 +19,14 @@ import pandas from './post/11_pandas.json'
 export var Entradas = [
     inteligencia_artificial,
     python,
+    transformers,
     tensorflow,
+    matplotlib,
+    pandas,
+    
     pytorch,
     pipeline,
-    transformers,
+    
     diffusers,
-    matplotlib,
-    pandas
+    
 ]
