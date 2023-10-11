@@ -6,24 +6,9 @@ import ejemplo_AMBIENTE from './post/base_ambiental.json'
 import ejemplo_NEWS from './post/base_actualidad.json'
 import ejemplo_INVESTIGACION from './post/base_investigacion.json'
 import inteligencia_artificial from './post/1_inteligencia_artificial.json'
-import python from './post/4_python_lenguaje.json'
-import tensorflow from './post/5_tensorflow.json'
-import pytorch from './post/6_pytorch.json'
-import pipeline from './post/7_pipeline.json'
-import transformers from './post/8_transformers.json'
-import diffusers from './post/9_diffusers.json'
-import matplotlib from './post/10_matplotlib.json'
-import pandas from './post/11_pandas.json'
 
 
-export var Entradas = [    
-    inteligencia_artificial,
-    python,
-    tensorflow,
-    pytorch,
-    pipeline,
-    transformers,
-    diffusers,
-    matplotlib,
-    pandas
+export var Entradas = [
+    ejemplo_ESPACIAL,
+    inteligencia_artificial
 ]

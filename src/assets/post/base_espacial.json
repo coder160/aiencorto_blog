@@ -2,6 +2,7 @@
     "id": 0,
     "dialog": false,
     "color_card":"#ffffff",
+    "tag_color": "text-grey",
     "categoria_color": "#90A4AE",
     "gradiente_imagen": "to bottom, #90A4AE0f, #90A4AE65",
     "icono": "mdi-space-station",

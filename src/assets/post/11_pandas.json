@@ -2,6 +2,7 @@
     "id": 11,
     "dialog": false,
     "color_card":"#ffffff",
+    "tag_color": "text-yellow",
     "categoria_color": "#FDD835",
     "gradiente_imagen": "to bottom, #FDD8350f, #FDD83565",
     "icono": "mdi-school-outline",
@@ -10,7 +11,6 @@
     "encabezado": "Investigaciones",
     "etiquetas": [
         "Documentos",
-        "Investigación",
         "Pandas"
     ],
     "url": "https://aiencorto.blogspot.com/2023/10/guia-del-usuario-de-pandas-tu-companero.html",

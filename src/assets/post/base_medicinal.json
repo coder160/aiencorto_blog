@@ -2,6 +2,7 @@
     "id": 0,
     "dialog": false,
     "color_card":"#ffffff",
+    "tag_color": "text-green",
     "categoria_color": "#00E676",
     "gradiente_imagen": "to bottom, #00E6760f, #00E67665",
     "icono": "mdi-biohazard",

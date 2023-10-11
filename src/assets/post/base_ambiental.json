@@ -2,6 +2,7 @@
     "id": 0,
     "dialog": false,
     "color_card":"#ffffff",
+    "tag_color": "text-orange",
     "categoria_color": "#F4511E",
     "gradiente_imagen": "to bottom, #F4511E0f, #F4511E65",
     "icono": "mdi-nature-people",

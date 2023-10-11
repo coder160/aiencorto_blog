@@ -1,7 +1,8 @@
 {
     "id": 0,
     "dialog": false,
-    "color_card":"#ffffff",    
+    "color_card":"#ffffff",
+    "tag_color": "text-blue",    
     "categoria_color": "#1E88E5",
     "gradiente_imagen": "to bottom, #1E88E50f, #1E88E565",
     "icono": "mdi-robot-industrial-outline",

@@ -2,6 +2,7 @@
     "id": 0,
     "dialog": false,
     "color_card":"#ffffff",
+    "tag_color": "text-indigo",
     "categoria_color":"#651FFF",
     "gradiente_imagen": "to bottom, #651FFF0f, #651FFF65",
     "icono": "mdi-brain",
