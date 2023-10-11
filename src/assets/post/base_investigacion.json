@@ -2,14 +2,9 @@
     "id": 0,
     "dialog": false,
     "color_card":"#ffffff",
-<<<<<<< HEAD
-    "categoria_color": "#E53935",
-    "gradiente_imagen": "to bottom, #E539350f, #E5393565",
-=======
     "tag_color": "text-yellow",
     "categoria_color": "#FDD835",
     "gradiente_imagen": "to bottom, #FDD8350f, #FDD83565",
->>>>>>> c8fd9f25 (add modo oscuro post)
     "icono": "mdi-school-outline",
     "autor": "MIA - Mi Inteligencia Artificial",
     "categoria": "Investigaciones",
