@@ -1,5 +1,6 @@
 <template>
-  <v-card :width="ancho_card" :theme="tema_card" class="mx-auto mt-6">
+  <PostView :card="card" />
+  <v-card :width="ancho_card" :theme="tema_card" class="mx-auto mt-4">
     <v-card-item>
       <v-card-title :class="estilo_encabezado_card">
         <v-icon start :color="color_iconos_card" :icon="icono_calendario" />
@@ -13,10 +14,10 @@
         </v-chip>
       </v-card-title>
       <v-img :src="card.imagen" :class="estilo_imagen_card" :gradient="card.gradiente_imagen"
-        :content-class="estilo_imagen_contenido_card" height="180px" cover />
+          @click="card.dialog = true" :content-class="estilo_imagen_contenido_card" height="180px" cover />
       <v-card-title :class="estilo_titulo_card">
-        {{ card.titulo }}
-        <v-chip-group selected-class="text-primary" column>
+        <a @click="card.dialog = true"> {{ card.titulo }}</a>
+        <v-chip-group :selected-class="card.tag_color" column>
           <v-chip v-for="etiqueta in card.etiquetas" :key="etiqueta">
             {{ etiqueta }}
           </v-chip>
@@ -39,7 +40,6 @@
       </div>
     </v-card-item>
   </v-card>
-  <PostView :card="card" />
 </template>
 
 

@@ -22,16 +22,14 @@
         </v-row>
       </v-col>
     </v-col>
-  </v-toolbar>
-  <v-card class="mt-12 elevation-20">
-    <v-container fluid>
+  </v-toolbar>  
+    <v-container fluid class="my-6">
       <v-row align="center" justify="center">
         <v-col v-for="item in entradasBlog.items" :key="item.name">
           <PostCard :card="item.raw" />
         </v-col>
       </v-row>
-    </v-container>
-  </v-card>
+    </v-container>  
 </template>
 
 <script setup>

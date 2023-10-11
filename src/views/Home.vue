@@ -1,32 +1,26 @@
 <template>
-  <HeroSection :hero_data="hero_data"/>
+  <HeroSection :hero_data="hero_data" />
 
-  <v-data-iterator v-model:items-per-page="itemsPorPagina" v-model:page="paginaActual" :items="blogEntradas"
-    :search="consultaEntrada" :sort-by="ordenarEntradas">
-
+  <v-data-iterator :items="blogEntradas" :search="consultaEntrada" :sort-by="ordenarEntradas"
+    v-model:items-per-page="itemsPorPagina" v-model:page="paginaActual">
     <template v-slot:default="props">
-      <FeedSection :entradasBlog="props" v-model:consultaEntrada="consultaEntrada" v-model:filtroEntradas="filtroEntradas"
-        v-model:ordenEntradas="ordenEntradas" v-model:filtros="filtros">
+      <FeedSection :entradasBlog="props" v-model:filtros="filtros" v-model:ordenEntradas="ordenEntradas"
+        v-model:consultaEntrada="consultaEntrada" v-model:filtroEntradas="filtroEntradas">
       </FeedSection>
     </template>
-
     <template v-slot:no-data>
       <v-alert class="ma-2" type="info">Sin resultados. Verifique su consulta.</v-alert>
     </template>
-
-    <template v-slot:footer>
-      <FooterSection :entradasBlog="blogEntradas" v-model:itemsPorPaginaOpciones="itemsPorPaginaOpciones"
-        v-model:itemsPorPagina="itemsPorPagina" v-model:paginaActual="paginaActual"
-        v-model:numeroDePaginas="numeroDePaginas">
-      </FooterSection>
-    </template>
-    
   </v-data-iterator>
+
+  <FooterSection :entradasBlog="blogEntradas" v-model:itemsPorPaginaOpciones="itemsPorPaginaOpciones"
+    v-model:itemsPorPagina="itemsPorPagina" v-model:paginaActual="paginaActual"
+    v-model:numeroDePaginas="numeroDePaginas" />
 </template>
 
 <script setup>
-import { Entradas } from '../assets/entradas.js'
 import { ref, computed } from 'vue'
+import { Entradas } from '../assets/entradas.js'
 import FeedSection from '@/components/FeedSection.vue'
 import HeroSection from '@/components/HeroSection.vue'
 import FooterSection from '@/components/FooterSection.vue'
@@ -37,9 +31,9 @@ const blogEntradas = ref(Entradas)
 const hero_data = ref({
   'encabezado': 'Bienvenido',
   'titulo': 'AI en Corto',
-  'subtitulo' : 'Blog',
-  'imagen':'https://cdn.vuetifyjs.com/images/backgrounds/vbanner.jpg',
-  'altura':450
+  'subtitulo': 'Blog',
+  'imagen': 'https://cdn.vuetifyjs.com/images/backgrounds/vbanner.jpg',
+  'altura': 450
 })
 //Feed Data
 const consultaEntrada = ref('')
