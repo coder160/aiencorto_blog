@@ -22,11 +22,9 @@ export var Entradas = [
     transformers,
     tensorflow,
     matplotlib,
-    pandas,
-    
+    pandas,    
     pytorch,
-    pipeline,
-    
+    pipeline,    
     diffusers,
     
 ]
