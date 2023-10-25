@@ -14,6 +14,7 @@ import transformers from './post/8_transformers.json'
 import diffusers from './post/9_diffusers.json'
 import matplotlib from './post/10_matplotlib.json'
 import pandas from './post/11_pandas.json'
+import RSS from './post/RSS.json'
 
 
 export var Entradas = [
@@ -26,5 +27,6 @@ export var Entradas = [
     pytorch,
     pipeline,    
     diffusers,
+    RSS,
     
 ]
