@@ -38,7 +38,7 @@ const hero_data = ref({
 //Feed Data
 const consultaEntrada = ref('')
 const filtroEntradas = ref('fecha')
-const ordenEntradas = ref('asc')
+const ordenEntradas = ref('desc')
 const filtros = ref(['fecha', 'categoria', 'autor', 'titulo'])
 const ordenarEntradas = computed(() => {
   return [{
