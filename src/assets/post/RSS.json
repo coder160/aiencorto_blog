@@ -1,5 +1,5 @@
 {
-    "id": 112901970448559489856535600133048845527,
+    "id": 2999543476447487283178704363698244325,
     "dialog": false,
     "color_card": "#ffffff",
     "tag_color": "text-yellow",
@@ -15,5 +15,5 @@
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq0wZ9JITX5WeNo7wVhKSOE_DUlxx1p2CZ161Ik07AaFewtLn-0QRDyVcvUre8Rf0OG8v2Gc5nWru35kgBZib2PKpSJtHLINfZhtYq5Og_qawUZVRIJk370Tn4w0ySDjJcCEiSeuViZ_tmWcocCBNLtX-q6vwCqqAL7gd69QbYRp1gux1QHkRoMB-9m_Y/w640-h320/ai(1).png",
     "titulo": "RSS",
     "subtitulo": "Especificación RSS 2.0 en Harvard Law",
-    "contenido": "La Especificación RSS 2.0 describe en detalle el formato Really Simple Syndication (RSS) for la sindicación de contenidos web. RSS es un formato basado en XML utilizado para distribuir actualizaciones de contanido desde sitios web.Puede implementarse en HTTP-POST, XML-RPC o SOAP 1.1. Se utiliza para cuadros de búsqueda o retroalimentación."
+    "contenido": "La Especificación RSS 2.0 describe en detalle el formato Really Simple Syndication (RSS) for la sindicación de contenidos web. RSS es un formato basado en XML utilizado para distribuir actualizaciones de contanido desde sitios web.\n\nPuede implementarse en HTTP-POST, XML-RPC o SOAP 1.1. Se utiliza para cuadros de búsqueda o retroalimentación.\n\n"
 }
