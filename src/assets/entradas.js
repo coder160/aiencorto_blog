@@ -8,7 +8,8 @@ import diffusers from './post/9_diffusers.json'
 import matplotlib from './post/10_matplotlib.json'
 import pandas from './post/11_pandas.json'
 import rss from './post/rss.json'
-import streamlit from './post/Streamlit.json'
+import streamlit from './post/streamlit.json'
+import docker from './post/docker.json'
 
 
 export var Entradas = [
@@ -23,5 +24,5 @@ export var Entradas = [
     diffusers,
     rss,
     streamlit,
-    
+    docker,
 ]

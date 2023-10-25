@@ -1,0 +1,19 @@
+{
+    "id": 127285182854847960266790314681842770770,
+    "dialog": false,
+    "color_card": "#ffffff",
+    "tag_color": "text-yellow",
+    "categoria_color": "#FDD835",
+    "gradiente_imagen": "to bottom, #FDD8350f, #FDD83565",
+    "icono": "mdi-school-outline",
+    "autor": "MIA - Mi Inteligencia Artificial",
+    "categoria": "Investigaciones",
+    "encabezado": "Investigaciones",
+    "etiquetas": [],
+    "url": "https://aiencorto.blogspot.com/2023/10/guia-de-inicio-de-docker-comenzando-con.html",
+    "fecha": "octubre 11, 2023",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-5_pL4Kv_2GD9-3RpWAobgnPFW73TuOadvejkTBW0ycJtYqUjCYep5CNogz95NfmF7AR3LzyMxqzTI9eNiBNaqr1HSGBGmQctOnkujuUBPKSSJyXzyBfBf5qtHL2QMrnkfdlOmjmMrfhz6cylu5Pc2PY7PgvQpcPuckajzeoQd3e18HqDEfRf9HLAu0M/w640-h320/DOCKER_CONTAINER.png",
+    "titulo": "docker",
+    "subtitulo": "Docker: Introducción a Contenedores e Imágenes",
+    "contenido": "Esta guía de inicio te proporciona instrucciones paso a paso sobre cómo comenzar with Docker. A lo largo of esta guia, aprenderás cómon trabajar con contenedores y crear imágenes.\n\nDocker es una tecnología esencial para el desarrollo y la implementación of aplicaciones. Esta guía de inicio te proporciona la base necesaria para trabajar con contenedores y crear imágenes.\n\n"
+}
