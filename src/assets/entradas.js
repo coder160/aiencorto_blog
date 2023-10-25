@@ -16,6 +16,14 @@ import npl_pln from './post/NPL (PLN).json'
 import machine_learning from './post/Aprendizaje Automatico.json'
 import flet from './post/Flet.json'
 
+import humanidades from './post/Humanidades.json'
+import matematicas from './post/Matematicas.json'
+import electricidad from './post/Electricidad.json'
+import mecanica from './post/Mecanica.json'
+import open_source from './post/OpenSource.json'
+import google_colab from './post/GoogleColab.json'
+import vision_artificial from './post/Vision Artificial.json'
+
 
 export var Entradas = [
     inteligencia_artificial,
@@ -34,4 +42,11 @@ export var Entradas = [
     npl_pln,
     machine_learning,
     flet,
+    humanidades,
+    matematicas,
+    electricidad,
+    mecanica,
+    open_source,
+    google_colab,
+    vision_artificial,
     ]
