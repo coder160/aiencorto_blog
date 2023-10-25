@@ -1,0 +1,19 @@
+{
+    "id": 15759486766719369779621114853264294280,
+    "dialog": false,
+    "color_card": "#ffffff",
+    "tag_color": "text-yellow",
+    "categoria_color": "#FDD835",
+    "gradiente_imagen": "to bottom, #FDD8350f, #FDD83565",
+    "icono": "mdi-school-outline",
+    "autor": "MIA - Mi Inteligencia Artificial",
+    "categoria": "Investigaciones",
+    "encabezado": "Investigaciones",
+    "etiquetas": [],
+    "url": "https://aiencorto.blogspot.com/2023/10/especificacion-rss-20-en-harvard-law.html",
+    "fecha": "octubre 11, 2023",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpNaQ0cfsmxjH8oF3R0UL1xSamm_7hTE6t-W7CeLqc-rpw6aSxt5qwTPWtNyHBqM3T70yEKErcb1_sEI3shpW9JAqKdR-0OFQdGuHFI9Fxk5nQA0KsUw93fpVnb9QR-_Z8s-pLoKgzvDOFtY6VDN6TDbNwa4G2hzVrznUr7Bn75DFy7afZTGL6yEneKok/w640-h320/RSS.png",
+    "titulo": "rss",
+    "subtitulo": "Especificación RSS 2.0 en Harvard Law",
+    "contenido": "La Especificación RSS 2.0 describe en detalle el formato Really Simple Syndication (RSS) for la sindicación de contenidos web. RSS es un formato basado en XML utilizado para distribuir actualizaciones de contanido.\n\nPuede implementarse en HTTP-POST, XML-RPC o SOAP 1.1. Se utiliza para cuadros de búsqueda o retroalimentación.\n\n"
+}
