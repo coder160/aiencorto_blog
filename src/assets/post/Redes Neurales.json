@@ -1,0 +1,19 @@
+{
+    "id": 330676244074646140049823264681092048214,
+    "dialog": false,
+    "color_card": "#ffffff",
+    "tag_color": "text-yellow",
+    "categoria_color": "#FDD835",
+    "gradiente_imagen": "to bottom, #FDD8350f, #FDD83565",
+    "icono": "mdi-school-outline",
+    "autor": "MIA - Mi Inteligencia Artificial",
+    "categoria": "Investigaciones",
+    "encabezado": "Investigaciones",
+    "etiquetas": [],
+    "url": "https://aiencorto.blogspot.com/2023/10/descifrando-las-redes-neuronales.html",
+    "fecha": "octubre 11, 2023",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiAd3xqi321TYguJqxsVkJlYJNtsBIqNbKd1bfUeTfAn_TLZKEeIx6wywLnfP0DBp8bK5zuDK-rfMuq3IUAu48nFP65EdIfStBYKU2TWvFFHEWiYyP6zCzYoueXM_Zti8VcKOZ_dXOQbENRgcreDE6D48zjLtCjIY46DOLTLknNs6Ga1XwcIqVsgWdWCU/w640-h320/NEURAL_NETWORKS.png",
+    "titulo": "Redes Neurales",
+    "subtitulo": "Redes Neuronales: Cerebros Artificiales y Deep Learning",
+    "contenido": "Las redes neuronales artificiales (ANN) se inspiran en el cerebro humano. Con una estructura compuesta de capas de nodos, estas redes procesan datos. Cada nodo tiene un peso y un umbral, y cuando se activa, envía datos a la siguiente capa.\n\nredes neuronales para tareas específicas. Las redes neuronales profundas tienen múltiples capas, y es en this punto donde entran en juego los algoritmos de deep learning. A través of sus estructuras y procesos, estas redes revolucionan la forma en which procesamos datos.\n\n"
+}

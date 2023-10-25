@@ -7,9 +7,14 @@ import transformers from './post/8_transformers.json'
 import diffusers from './post/9_diffusers.json'
 import matplotlib from './post/10_matplotlib.json'
 import pandas from './post/11_pandas.json'
+
 import rss from './post/rss.json'
 import streamlit from './post/streamlit.json'
 import docker from './post/docker.json'
+import redes_neurales from './post/Redes Neurales.json'
+import npl_pln from './post/NPL (PLN).json'
+import machine_learning from './post/Aprendizaje Automatico.json'
+import flet from './post/Flet.json'
 
 
 export var Entradas = [
@@ -25,4 +30,8 @@ export var Entradas = [
     rss,
     streamlit,
     docker,
-]
+    redes_neurales,
+    npl_pln,
+    machine_learning,
+    flet,
+    ]
