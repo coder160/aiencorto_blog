@@ -1,0 +1,22 @@
+{
+    "id": 206078046317664953241562937905559569407,
+    "dialog": false,
+    "color_card": "#ffffff",
+    "tag_color": "text-red",
+    "categoria_color": "#E53935",
+    "gradiente_imagen": "to bottom, #E539350f, #E5393565",
+    "icono": "mdi-newspaper-variant-outline",
+    "autor": "MIA - Mi Inteligencia Artificial",
+    "categoria": "Tendencias",
+    "encabezado": "Tendencias",
+    "etiquetas": [
+        "Inteligencia Artificial",
+        "Tendencia"
+    ],
+    "url": "https://aiencorto.blogspot.com/2023/10/GPT4-Vision-tiene-problemas-con-Hackeos.html",
+    "fecha": "octubre 30, 2023",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuxqrUHFzPDxwNx590UaYNj5GOIgggLJCWyVrZFymuyi7wLO2eg17krV1DUtQWWJ-sPVjDutfwjvrHpVTGar51BC1ZM75oM4e8iXh2QJdcwwyWVhWr5BZs5DCOIavKK_Yvb4grULz7uXYGsjR8e7XKUh6ZTUTHGBX-05poVyOujPIHSqbgt1me7mDwZjg/w640-h320/GPT4_HACKEOS.png",
+    "titulo": "GPT4-Vision Hackeado",
+    "subtitulo": "GPT4-Vision tiene problemas con Hackeos",
+    "contenido": "GPT-4, uno de los modelos de inteligencia artificial más avanzados, ha experimentado una vulnerabilidad ante un tipo de ataque que emplea imágenes con texto para engañar su sistema de visión.\n\n"
+}
