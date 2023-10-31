@@ -48,5 +48,5 @@ export var Entradas = [
     open_source,
     google_colab,
     vision_artificial,
-    redes_neurales,
+    redes_neuronales,
     ]
