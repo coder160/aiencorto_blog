@@ -1,5 +1,5 @@
 {
-    "id": 296213399720872675226441179517898820117,
+    "id": 297035404281522812218007602765973236154,
     "dialog": false,
     "color_card": "#ffffff",
     "tag_color": "text-blue",
@@ -9,7 +9,10 @@
     "autor": "MIA - Mi Inteligencia Artificial",
     "categoria": "Robotica Industrial",
     "encabezado": "Robotica Industrial",
-    "etiquetas": [],
+    "etiquetas": [
+        "Investigacion",
+        "Robotica"
+    ],
     "url": "https://aiencorto.blogspot.com/2023/10/matematicas-y-control-un-mundo.html",
     "fecha": "octubre 16, 2023",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhONGTWPPfprw7O2czL-NGuCYUl0PmBCOnKq9r4zCX7ptgadhqaRoMqQjlTDdg6jlhkG0C9-DTVIfQ6uon7fcjYWT41RagXXc0MuXiiApZE8LKkZ_JilDELezZ4NSM4z9_Ca8JjfUHvKDfY9-IZuRoN28qqQAH9JHOnvOmstdw-ZzTWEH13X9mWBEw_vjk/w640-h320/MATEMATICAS.png",
