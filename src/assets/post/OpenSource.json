@@ -1,14 +1,14 @@
 {
-    "id": 54709058309667733151647100944767540191,
+    "id": 312150902316582842243587077607145291928,
     "dialog": false,
     "color_card": "#ffffff",
-    "tag_color": "text-blue",
-    "categoria_color": "#1E88E5",
-    "gradiente_imagen": "to bottom, #1E88E50f, #1E88E565",
-    "icono": "mdi-robot-industrial-outline",
+    "tag_color": "text-yellow",
+    "categoria_color": "#FDD835",
+    "gradiente_imagen": "to bottom, #FDD8350f, #FDD83565",
+    "icono": "mdi-school-outline",
     "autor": "MIA - Mi Inteligencia Artificial",
-    "categoria": "Robotica Industrial",
-    "encabezado": "Robotica Industrial",
+    "categoria": "Investigaciones",
+    "encabezado": "Investigaciones",
     "etiquetas": [
         "Inteligencia Artificial",
         "Investigacion"
