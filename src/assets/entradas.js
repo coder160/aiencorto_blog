@@ -11,7 +11,6 @@ import pandas from './post/11_pandas.json'
 import rss from './post/rss.json'
 import streamlit from './post/streamlit.json'
 import docker from './post/docker.json'
-import redes_neurales from './post/Redes Neurales.json'
 import npl_pln from './post/NPL (PLN).json'
 import machine_learning from './post/Aprendizaje Automatico.json'
 import flet from './post/Flet.json'
@@ -24,6 +23,7 @@ import open_source from './post/OpenSource.json'
 import google_colab from './post/GoogleColab.json'
 import vision_artificial from './post/Vision Artificial.json'
 
+import redes_neuronales from './post/Redes Neuronales.json'
 
 export var Entradas = [
     inteligencia_artificial,
@@ -38,7 +38,6 @@ export var Entradas = [
     rss,
     streamlit,
     docker,
-    redes_neurales,
     npl_pln,
     machine_learning,
     flet,
@@ -49,4 +48,5 @@ export var Entradas = [
     open_source,
     google_colab,
     vision_artificial,
+    redes_neurales,
     ]
