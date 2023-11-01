@@ -41,6 +41,8 @@ import titan from './post/Titan.json'
 import asteroides_troyanos from './post/Asteroides Troyanos.json'
 import europa from './post/Europa.json'
 
+import brazo_robotico from './post/Brazo Robotico.json'
+
 
 
 
@@ -83,5 +85,6 @@ export var Entradas = [
     astrobiologia,
     titan,
     asteroides_troyanos,
-    europa
+    europa,
+    brazo_robotico
     ]
