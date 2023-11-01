@@ -9,7 +9,7 @@ import matplotlib from './post/10_matplotlib.json'
 import pandas from './post/11_pandas.json'
 
 import rss from './post/rss.json'
-import streamlit from './post/streamlit.json'
+import streamlit from './post/Streamlit.json'
 import docker from './post/Docker.json'
 import npl_pln from './post/NPL (PLN).json'
 import machine_learning from './post/Aprendizaje Automatico.json'

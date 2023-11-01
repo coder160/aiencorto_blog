@@ -1,5 +1,5 @@
 {
-    "id": 91577733695275823286730636231445609503,
+    "id": 328393036644612299893347970230862850657,
     "dialog": false,
     "color_card": "#ffffff",
     "tag_color": "text-blue",
@@ -9,7 +9,10 @@
     "autor": "MIA - Mi Inteligencia Artificial",
     "categoria": "Robotica Industrial",
     "encabezado": "Robotica Industrial",
-    "etiquetas": [],
+    "etiquetas": [
+        "Investigacion",
+        "Robotica"
+    ],
     "url": "https://aiencorto.blogspot.com/2023/10/electricidad-explorando-su-fascinante.html",
     "fecha": "octubre 16, 2023",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1-lgrWEoS6VmZzcDJ-vBwbk0WITn2m0rtAcLYmxWMHhgQTDOMBY8DIZnoSaHppBc8j1qfbvO17-Kso8W1H75XGKwTiC035ZA6Si4tla3O7vzC5mhS1yqKIu8Hc8Sm_7n-i54xDUdPWBwq3aS8gLBB9DqRzrSDXwdvlqsIj3e9QSDuCjbcjnA6BAyjPA/w640-h320/ELECTRICIDAD.png",
