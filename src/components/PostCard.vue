@@ -1,5 +1,4 @@
-<template>
-  <PostView :card="card" />
+<template>  
   <v-card :width="ancho_card" :theme="tema_card" class="mx-auto mt-4">
     <v-card-item>
       <v-card-title :class="estilo_encabezado_card">
@@ -13,8 +12,8 @@
           {{ card.categoria }}
         </v-chip>
       </v-card-title>
-      <v-img :src="card.imagen" :class="estilo_imagen_card" :gradient="card.gradiente_imagen"
-          @click="card.dialog = true" :content-class="estilo_imagen_contenido_card" height="180px" cover />
+      <v-img :src="card.imagen" :class="estilo_imagen_card" :gradient="card.gradiente_imagen" @click="card.dialog = true"
+        :content-class="estilo_imagen_contenido_card" height="180px" cover />
       <v-card-title :class="estilo_titulo_card">
         <a @click="card.dialog = true"> {{ card.titulo }}</a>
         <v-chip-group :selected-class="card.tag_color" column>
@@ -30,10 +29,11 @@
       <div :class="estilo_botones">
         <v-btn :icon="icono_like" @click="like_togepi()" />
         <v-spacer />
-        <v-btn :color="card.categoria_color" :prepend-icon="icono_lectura" variant="flat" class="me-2 text-none"
-          @click="card.dialog = true">
-          En Corto
-        </v-btn>
+        <router-link :to="{ name: 'Post', params: { url: card.url }}">
+          <v-btn :color="card.categoria_color" :prepend-icon="icono_lectura" variant="flat" class="me-2 text-none">
+            En Corto
+          </v-btn>
+        </router-link>
         <v-btn border :prepend-icon="icono_articulo" variant="text" class="text-none" target="_blank" :href="card.url">
           Artículo
         </v-btn>
@@ -45,7 +45,6 @@
 
 <script setup>
 import { ref } from 'vue'
-import PostView from './Post.vue'
 const props = defineProps({
   card: Object
 })

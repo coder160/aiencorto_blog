@@ -12,6 +12,18 @@ const routes = [
       },
     ],
   },
+  {
+    path: '/post/:url',
+    component: () => import('@/layouts/default/Default.vue'),
+    children: [
+      {
+        path: '',
+        name: 'Post',
+        component: () => import(/* webpackChunkName: "post" */ '@/views/Post.vue'),
+      },
+    ],
+  },
+  
 ]
 
 const router = createRouter({
