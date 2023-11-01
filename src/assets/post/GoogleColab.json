@@ -1,5 +1,5 @@
 {
-    "id": 160139300351789214116045813671105057580,
+    "id": 179799948177277786544078380274216174744,
     "dialog": false,
     "color_card": "#ffffff",
     "tag_color": "text-yellow",
@@ -9,7 +9,10 @@
     "autor": "MIA - Mi Inteligencia Artificial",
     "categoria": "Investigaciones",
     "encabezado": "Investigaciones",
-    "etiquetas": [],
+    "etiquetas": [
+        "Inteligencia Artificial",
+        "Investigacion"
+    ],
     "url": "https://aiencorto.blogspot.com/2023/10/google-colab-que-es-colaboratory.html",
     "fecha": "octubre 12, 2023",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX9iRTX6KszqgP7iLECskFViE9F6jVED4Y344n-LEXiGXgMg2x-NHf6zrtwKhOLhNaBKwIKMBY7lMOUNSPpQlV7_LBuiDslwiA3743HbKQvJvduKgqUzttWQb_DYHfzZ5qBTUqHvRLvPcdSm5v3mukI0YDgrYf95UGFhtZHH6VWqGeoicZqJdUrTbhkzI/w640-h320/GOOGLE_COLAB.png",
