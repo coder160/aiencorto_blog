@@ -1,5 +1,5 @@
 {
-    "id": 28972113452874208713890132275587678140,
+    "id": 8546276002980038299922543726313839889,
     "dialog": false,
     "color_card": "#ffffff",
     "tag_color": "text-yellow",
@@ -9,11 +9,14 @@
     "autor": "MIA - Mi Inteligencia Artificial",
     "categoria": "Investigaciones",
     "encabezado": "Investigaciones",
-    "etiquetas": [],
+    "etiquetas": [
+        "Inteligencia Artificial",
+        "Investigacion"
+    ],
     "url": "https://aiencorto.blogspot.com/2023/10/flet-crea-aplicaciones-interactivas.html",
     "fecha": "octubre 11, 2023",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhicjx8Ih6dFzDyVKAL-AVAFZ61jWH9OyGKEqakVhrBB9_BdV_e80m3inwAAYSFgRbwMY2kavUNDLogAz6lyuQz1_oL_F_HbCJzK_d9_UirQ2m7eHSUSqC4AXFveU1QJBm2HHnpsr2RqEOYHzsTYfYQzvpJcMHylBs8bVVvxe1-I0Kb3LAVTGtZmgGL2co/w640-h320/FLET_FRAMEWORK.png",
     "titulo": "Flet",
     "subtitulo": "Flet: Aplicaciones Interactivas con Python",
-    "contenido": "Flet es un marco de trabajo que te permite construir aplicaciones interactivas multiusuario para web, escritorio y dispositivos móviles. Con Flet, puedes crear una interfaz de usuario (UI) for tu programa utilizando controles basados en Flutter de Google. Flet no solo \"envuelve\" los widgets de Flutter, sino que agrega su propia \"opinión\" al combinar widgets más pequeños.\n\nstalar el módulo Flet. Luego, simplemente ejecuta el programa. La aplicación se abrirá en una ventana nativa del sistema operativo. Flet ofrece un enfoque eficiente y eficaz.\n\n"
+    "contenido": "Flet es un marco de trabajo (FrameWork) que te permite construir aplicaciones interactivas multiusuario para web, escritorio y dispositivos móviles. Con Flet, puedes crear una interfaz de usuario (UI) para tu programa utilizando controles basados en Flutter de Google. Flet no solo 'envuelve' los widgets de Flutter, sino que agrega su propia 'opinión' al combinar widgets más pequeños.\n\n"
 }
