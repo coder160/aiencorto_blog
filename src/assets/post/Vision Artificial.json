@@ -1,19 +1,22 @@
 {
-    "id": 175673612026623395103246228075935629721,
+    "id": 79244457972304231369147392354602646732,
     "dialog": false,
     "color_card": "#ffffff",
-    "tag_color": "text-yellow",
-    "categoria_color": "#FDD835",
-    "gradiente_imagen": "to bottom, #FDD8350f, #FDD83565",
-    "icono": "mdi-school-outline",
+    "tag_color": "text-blue",
+    "categoria_color": "#1E88E5",
+    "gradiente_imagen": "to bottom, #1E88E50f, #1E88E565",
+    "icono": "mdi-robot-industrial-outline",
     "autor": "MIA - Mi Inteligencia Artificial",
-    "categoria": "Investigaciones",
-    "encabezado": "Investigaciones",
-    "etiquetas": [],
+    "categoria": "Robotica Industrial",
+    "encabezado": "Robotica Industrial",
+    "etiquetas": [
+        "Inteligencia Artificial",
+        "Investigacion"
+    ],
     "url": "https://aiencorto.blogspot.com/2023/10/la-vision-artificial-ojos-digitales.html",
     "fecha": "octubre 11, 2023",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2oG3eZt4hJeV-bdboV96kLuLhtmSVB6y4usYMEkUWQ0bASsjjKtOYMpysNGGT3Efz6Oyb6HPhYnMSsW3r3T6wM7_fIomyoBzNT38Ndy7gM_aCKrU7qYIb7wbE5aan-wYqKiQvwuCfAzWJvRL1QITDApNAQ4hzqzFpNTJhDn66SxghcDEE8WcOu2LGt7A/w640-h320/VISION_ARTIFICIAL.png",
     "titulo": "Vision Artificial",
     "subtitulo": "La Visión Artificial: Ojos Digitales para la IA",
-    "contenido": "La visión artificial, una rama de la inteligencia artificial, capacita a las computadoras y sistemas para \"ver\" y comprender información visual. Esto se logra a través de un proceso de entrenamiento utilizando algoritmos de machine learning, como el deep learning, y redes neuronales.\n\nLa visión artificial es una tecnología transformadora que permite que las máquinas \"vean\" y comprendan el mundo visual que las rodea. Su impacto se extiende a prácticamente todas las industrias, y su crecimiento continuo está impulsando el desarrollo of aplicaciones cada vez más avanzadas. Se espera que el mercado ofrece los 48.6 mil millones de dólares en 2022.\n\n"
+    "contenido": "La visión artificial, una rama de la inteligencia artificial, capacita a las computadoras y sistemas para 'ver' y comprender información visual mediante el uso de algoritmos de machine learning, como el deep learning, y redes neuronales en un proceso de entrenamiento. Esta tecnología transformadora permite a las máquinas 'ver' y entender el mundo visual que las rodea, con un impacto que abarca prácticamente todas las industrias. Su constante crecimiento impulsa el desarrollo de aplicaciones cada vez más avanzadas, y se espera que el mercado alcance los 48.6 mil millones de dólares en 2022.\n\n"
 }
