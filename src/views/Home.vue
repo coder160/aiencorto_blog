@@ -9,7 +9,10 @@
       </FeedSection>
     </template>
     <template v-slot:no-data>
-      <v-alert class="ma-2" type="info">Sin resultados. Verifique su consulta.</v-alert>
+      <FeedSection :entradasBlog="blogEntradas" v-model:filtros="filtros" v-model:ordenEntradas="ordenEntradas"
+        v-model:consultaEntrada="consultaEntrada" v-model:filtroEntradas="filtroEntradas">
+        <v-alert class="ma-2" type="info">Sin resultados. Verifique su consulta.</v-alert>
+      </FeedSection>
     </template>
   </v-data-iterator>
 
