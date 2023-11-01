@@ -1,5 +1,5 @@
 {
-    "id": 197334809561638616571739599694939414588,
+    "id": 228398621367053422228209122235865018363,
     "dialog": false,
     "color_card": "#ffffff",
     "tag_color": "text-yellow",
@@ -9,11 +9,14 @@
     "autor": "MIA - Mi Inteligencia Artificial",
     "categoria": "Investigaciones",
     "encabezado": "Investigaciones",
-    "etiquetas": [],
+    "etiquetas": [
+        "Inteligencia Artificial",
+        "Investigacion"
+    ],
     "url": "https://aiencorto.blogspot.com/2023/10/que-es-el-aprendizaje-automatico.html",
     "fecha": "octubre 11, 2023",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_B0vk38VXBjrIFG5KaX755qBfS8ChLWJg1y2GDgqRoxQRr6Fvz9IUwqjFmAV7y6KHgrHxdr34fdZiuV4_kwMbOHWGpCzV7kYKYZfyJoBmZ6clIJIkaeDMWGukKFhJ7ZhCWwJp_I6xP9aEe6wq2vw9jEwOhr_u1QKB3s4FHS4h9oQ5hND-ItBhw6DsPZA/w640-h320/MACHINE_LEARNING.png",
     "titulo": "Aprendizaje Automatico",
     "subtitulo": "Machine Learning: ¿Qué es el Aprendizaje Automático?",
-    "contenido": "El Aprendizaje Automático (Machine Learning) es una técnica esencial que habilita a las máquinas para aprender y mejorar mediante la utilización de datos. El proceso de entrenamiento de modelos en Machine Learning es fundamental para alcanzar el éxito en esta disciplina. Machine Learning aporta un valor considerable a las empresas, al proporcionar una comprensión más profunda de patrones. El Big Data facilita la virtualización de datos, optimizando su almacenamiento.\n\n"
+    "contenido": "El Aprendizaje Automático (Machine Learning) es una técnica fundamental que permite a las máquinas aprender y mejorar a partir of datos. El proceso de entrenamiento de modelos en Machine Learning es clave para su éxito.\n\nMachine Learning aporta un valor significativo a las empresas. No se requiere necesariamente Big Data para aplicar técnicas de Machine Learning. El Big Data permite la virtualización de datos, facilitando su almacenamiento.\n\n"
 }

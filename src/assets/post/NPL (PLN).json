@@ -1,5 +1,5 @@
 {
-    "id": 122309841574315795345257974378235081735,
+    "id": 11376998957171535338560703466044678341,
     "dialog": false,
     "color_card": "#ffffff",
     "tag_color": "text-yellow",
@@ -9,11 +9,14 @@
     "autor": "MIA - Mi Inteligencia Artificial",
     "categoria": "Investigaciones",
     "encabezado": "Investigaciones",
-    "etiquetas": [],
+    "etiquetas": [
+        "Inteligencia Artificial",
+        "Investigacion"
+    ],
     "url": "https://aiencorto.blogspot.com/2023/10/procesamiento-del-lenguaje-natural-pln.html",
     "fecha": "octubre 11, 2023",
     "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM-sF2HfmhLjiR7RuuMVwZcS-WV-mgcLlG_VxBWsEn8WFNwAMyGdfvPelV9mZke-DYKgDwQqVY8shlFCW_uPaR783_zROpDWSoM1ZLMorAPsuJNvjl5yhYiYuGFrlpDDYVwyq58l8NRJ4idRzI6pM7gzYh4OFUjcsR5HVrarcVgFV8w40x_fBRiowYclA/w640-h320/NLP_MODULE.png",
     "titulo": "NPL (PLN)",
     "subtitulo": "Procesamiento del Lenguaje Natural (PLN): La Magia Detrás de la IA",
-    "contenido": "El Procesamiento del Lenguaje Natural (PLN) es el componente crítico de la inteligencia artificial (IA) It permite a las máquinas entender y trabajar con texto y voz como lo haría un ser humano. El PLN tiene un profundo impacto en aplicaciones de la vida cotidiana.\n\nEl PLN estadístico combina algoritmos con modelos de machine learning y deep learning. Este enfoque permite extraer, clasificar y etiquetar automáticamente datos de texto y voz.\n\n"
+    "contenido": "El Procesamiento del Lenguaje Natural (PLN) es el componente crítico de la inteligencia artificial (IA) permite a las máquinas entender y trabajar con texto y voz como lo haría un ser humano. El PLN tiene un profundo impacto en aplicaciones de la vida cotidiana y se está convirtiendo en un pilar of las soluciones empresariales.\n\nEl PLN combina algoritmos con modelos de machine learning and deep learning. Este enfoque permite extraer, clasificar y etiquetar automáticamente datos de texto and voz. El PLN está transformando la forma en que interactuamos with la tecnología.\n\n"
 }
