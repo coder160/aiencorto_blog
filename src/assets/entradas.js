@@ -44,6 +44,9 @@ import europa from './post/Europa.json'
 import brazo_robotico from './post/Brazo Robotico.json'
 
 
+import cultura_maker from './post/Cultura Maker.json'
+import makerspaces from './post/MakerSpaces.json'
+
 
 
 export var Entradas = [
@@ -86,5 +89,7 @@ export var Entradas = [
     titan,
     asteroides_troyanos,
     europa,
-    brazo_robotico
+    brazo_robotico,
+    cultura_maker,
+    makerspaces,
     ]
