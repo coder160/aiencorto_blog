@@ -46,6 +46,7 @@ import brazo_robotico from './post/Brazo Robotico.json'
 
 import cultura_maker from './post/Cultura Maker.json'
 import makerspaces from './post/MakerSpaces.json'
+import efecto_rehbinder from './post/Efecto Rehbinder.json'
 
 
 
@@ -92,4 +93,5 @@ export var Entradas = [
     brazo_robotico,
     cultura_maker,
     makerspaces,
+    efecto_rehbinder,
     ]
